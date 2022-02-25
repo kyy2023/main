@@ -1,0 +1,42 @@
+1body {
+  font-family: 'Jura', sans-serif;
+}
+
+.navbar {
+  font-weight: 500;
+  margin: auto 20%;
+}
+
+.navbar-nav {
+  margin: 1% 75%;
+}
+
+.hr-red1 {
+  margin: 0;
+  border: 2px solid red;
+}
+
+.hr-red2 {
+  border: 2px solid red;
+}
+
+.quote {
+  margin: 5% 18% -1% 18%;
+  text-shadow: -7px 7px DimGray;
+  height: 300px;
+  width: 500px;
+  text-align: center;
+}
+
+.justme {
+  width: 40%;
+  height: 90%;
+  background-color: DimGray;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 10px 10px 5px DarkGray;
+  padding: 50px;
+  color: white;
+  margin: -7% 45%;
+  z-index: 1;
+}
